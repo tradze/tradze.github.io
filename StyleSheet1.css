@@ -1,0 +1,58 @@
+﻿
+
+	#vardas
+	{
+		text-align
+	}
+	body
+	{
+	background-color: rgb(3, 614, 820)
+	}
+	table, th, td 
+	{
+		border: 1px solid black;
+		font-size:30pt;
+		text-align: center;
+		vertical-align: middle;
+		padding:15pt;
+	}
+	table
+	{
+		color:red;
+		margin:auto;
+		width="1000";
+	}
+	.Antraste
+	{
+	font-size: 50pt;
+	text-align: center;
+	color: Red;
+	}
+	a:hover
+	{
+		color: red;
+		font-size: 180%;
+	}
+	.tekstas
+	{
+	font-size: 20pt;
+	text-align: left;
+	color: black;
+	}
+	.bold
+	{
+	font-size:40pt;
+	color:violet;
+	}
+	.pirmaeilute
+	{
+		font-size: 25pt;
+		height: 60pt;
+		font-family:'Comic Sans MS'
+	}
+	.spalva
+	{
+		background-color: rgba(545, 1, 612, 0.3);
+
+	}
+
