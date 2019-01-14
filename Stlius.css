@@ -1,0 +1,64 @@
+﻿body
+{
+	background-color: #FFEBCD;
+}
+	.antraste
+	{
+		font-size: 40 pt;
+		text-align: center;
+		color: black;
+		padding: 20pt;
+	}
+	.tekstas
+	{
+		font-size: 20pt;
+		text-align: center;
+		padding: 20pt;
+		}
+	table, th, td
+	{
+		font-size:30pt;
+		text-align: center;
+		vertical-align: middle;
+		padding:10pt;
+		border: 1px solid black;
+	}
+	.container
+	{
+		width:100%;
+		height: auto;
+		border-collapse: collapse;
+	}
+	.container img 
+	{
+		width:100%;
+		height: auto;
+		border-collapse: collapse;
+	}
+	.tekstas2
+	{
+		font-size: 15pt;
+		text-align: left;
+		max-width:200ch;
+		padding: 10pt;
+		margin-bottom: 10px;
+	}
+	.tekstas3
+	{
+		font-size: 15pt;
+		text-align: right;
+		max-width:200ch;
+		padding: 10pt;
+		margin-bottom: 10px;
+	}
+	.center 
+	{
+		display: block;
+		 margin-left: auto;
+		margin-right: auto;
+		width: 50%;
+	}
+
+
+	
+	
