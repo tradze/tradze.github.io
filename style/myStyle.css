@@ -1,0 +1,11 @@
+body{
+    background-blend-mode: luminosity;
+    background: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero-00e10b1f.jpg");
+}
+div{
+    margin: auto;
+    width: 600px;
+    height: 200px;
+    text-align: center;
+    
+}
